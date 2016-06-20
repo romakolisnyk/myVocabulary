@@ -1,0 +1,11 @@
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\bin\Debug\test1.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\bin\Debug\test1.pdb
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\bin\Debug\MyVocabulary.exe
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\bin\Debug\MyVocabulary.pdb
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\bin\Debug\MyVocabulary.xml
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\bin\Debug\en\MyVocabulary.resources.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\obj\Debug\test1.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\test1\obj\Debug\test1.pdb

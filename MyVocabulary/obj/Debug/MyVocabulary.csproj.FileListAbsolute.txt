@@ -7,8 +7,8 @@ C:\Users\2408\Documents\Visual Studio 2015\Projects\MyVocabulary\MyVocabulary\ob
 C:\Users\2408\Documents\Visual Studio 2015\Projects\MyVocabulary\MyVocabulary\obj\Debug\MyVocabulary.pdb
 C:\Users\2408\Documents\Visual Studio 2015\Projects\MyVocabulary\MyVocabulary\obj\Debug\MyVocabulary.form2.resources
 C:\Users\2408\Documents\Visual Studio 2015\Projects\MyVocabulary\MyVocabulary\obj\Debug\MyVocabulary.Form3.resources
-C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabulary\obj\Debug\MyVocabulary.csprojResolveAssemblyReference.cache
 C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabulary\bin\Debug\en\MyVocabulary.resources.dll
 C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabulary\obj\Debug\MyVocabulary.MyVocabulary.resources
 C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabulary\obj\Debug\MyVocabulary.MyVocabulary.en.resources
 C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabulary\obj\Debug\en\MyVocabulary.resources.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabulary\bin\Debug\MyVocabulary.XML

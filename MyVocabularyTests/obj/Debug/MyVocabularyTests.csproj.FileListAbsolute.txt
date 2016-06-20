@@ -1,0 +1,11 @@
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\bin\Debug\MyVocabularyTests.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\bin\Debug\MyVocabularyTests.pdb
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\bin\Debug\MyVocabulary.exe
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\bin\Debug\MyVocabulary.pdb
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\bin\Debug\MyVocabulary.xml
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\bin\Debug\en\MyVocabulary.resources.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\obj\Debug\MyVocabularyTests.csprojResolveAssemblyReference.cache
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\obj\Debug\MyVocabularyTests.dll
+C:\Users\2408\documents\visual studio 2015\Projects\MyVocabulary\MyVocabularyTests\obj\Debug\MyVocabularyTests.pdb

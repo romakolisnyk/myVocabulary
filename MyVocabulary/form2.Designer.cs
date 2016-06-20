@@ -1,5 +1,8 @@
 ﻿namespace MyVocabulary
 {
+    /// <summary>
+    /// klasa form2
+    /// </summary>
     partial class form2
     {
         /// <summary>
